@@ -6,6 +6,7 @@ public class Main {
 
         System.out.println("Hello and welcome kitilo!");
 
+        System.out.println("Nika Luffy");
 
     }
 }
