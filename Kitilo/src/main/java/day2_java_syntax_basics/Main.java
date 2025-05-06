@@ -1,4 +1,4 @@
-package com.testing;
+package day2_java_syntax_basics;
 
 
 public class Main {
