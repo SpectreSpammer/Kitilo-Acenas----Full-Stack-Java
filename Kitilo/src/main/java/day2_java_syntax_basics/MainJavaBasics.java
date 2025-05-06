@@ -1,7 +1,7 @@
 package day2_java_syntax_basics;
 
 
-public class Main {
+public class MainJavaBasics {
     public static void main(String[] args) {
 
         System.out.println("Hello and welcome kitilo!");
@@ -9,4 +9,5 @@ public class Main {
         System.out.println("Nika Luffy");
 
     }
+
 }
